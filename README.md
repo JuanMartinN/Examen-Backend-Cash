@@ -7,4 +7,6 @@
 ###### 5. Cambiar el usuario y password de conexion a MySQL en el archivo 'application.yml'. De ser necesario podria cambiar el puerto en el mismo archivo (puerto defecto:8080).
 ###### 6. Como ultimo paso para levantar la app una vez en el IDE hacer click derecho en el proyecto 'api-navarro'>Run As> Spring Boot App  y ya tendra levantada la API de manera local.
 
+#### Los datos de la BD (tablas y registros) se cargan automaticamente desde el archivo 'data.sql' al levantar el proyecto.
+
 `<links>` : [Descargar MySQL](https://dev.mysql.com/downloads/)
